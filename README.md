@@ -13,7 +13,6 @@ My research and academic work primarily focus on the intersection of **Mathemati
 - 🎓 **Ph.D. Candidate (39th cycle)** at the University of Milan
 - 🧠 **Research interests:** complex systems, mathematical modeling and machine learning
 - 💼 **AI Engineer path at NEXiD S.r.l.**, working on [LAiR](https://dev.lair-ai.it/)
-- ✉️ **Contact:** [andrea.afify@unimi.it](mailto:andrea.afify@unimi.it)
 
 ### What I Work On
 
