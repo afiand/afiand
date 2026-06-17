@@ -27,4 +27,3 @@ Here are a few highlights from my [Google Scholar](http://scholar.google.com/cit
 * **Quantitative Finance and Economics (2021):** *Estimating market index valuation from macroeconomic trends* (A. Afify, H.E. Roman)
 
 ---
-⭐️ *From [afiand](https://github.com/afiand)*
